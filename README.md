@@ -2,7 +2,7 @@
 
 Creación de patrones sintéticos para conjuntos de datos desbalanceados mediante la metaheurística voraz iterativa.
 
-Trabajo de Fin de Grado realizado para la universidad de Córdoba.
+Trabajo de Fin de Grado realizado para la universidad de Córdoba calificado con Matrícula de Honor.
 
 El problema real que se plantea para este Trabajo Fin de Grado es, por una parte, la implementación de un algoritmo de remuestreo utilizando técnicas de over-sampling, inspirándose en los algoritmos existentes hasta la fecha, aplicándole además, algunas mejoras que se creen necesarias para hacerlo más eficiente o eficaz. Por otra parte, se implementará la metaheurística voraz iterativa para optimizar la creación de los patrones sintéticos, de forma que, se consiga generar un conjunto de sintéticos que aporte el mayor beneficio posible a la clasificación. En resumen, este Trabajo Fin de Grado, se divide en dos partes:
 
